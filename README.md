@@ -14,11 +14,13 @@ My manager had been manually populating a resource management report each month,
 
 <img width="1680" alt="Screenshot 2023-08-31 at 6 14 25 PM" src="https://github.com/rodney-sibanda/FTE_Dashbaord/assets/126027138/e766606e-e3e8-46a7-8c72-eea8087f7a6c">
 
+
 The Overview page serves as the introductory page of the dashboard, presenting the scope and utility of the tool. It contains two primary sections: "Resource Management Reporting" and "Turnover Reporting." These sections succinctly outline what to expect in the subsequent tabs, providing leadership with an initial understanding of resource allocation and employee turnover.
 
 ## Resource Management Reporting Page
 
 <img width="1675" alt="Screenshot 2023-08-31 at 6 14 46 PM" src="https://github.com/rodney-sibanda/FTE_Dashbaord/assets/126027138/58d412e7-4f1f-47ae-a861-cfb9bc188bb7">
+
 
 This tab is a haven for managers, executives, and decision-makers who need to reconcile available resources with market demands. Divided into three main sections, it showcases a comparison of approved vs. actual FTEs, a time-series graph of monthly FTE actuals, and a bar graph breaking down scheduled FTEs by market. These visual aids are designed to facilitate an understanding of human resource allocation and enable timely adjustments.
 
@@ -27,11 +29,13 @@ This tab is a haven for managers, executives, and decision-makers who need to re
 
 <img width="1674" alt="Screenshot 2023-08-31 at 6 14 56 PM" src="https://github.com/rodney-sibanda/FTE_Dashbaord/assets/126027138/acb7e25c-d47b-4737-9527-eff4498259dd">
 
+
 This page contains four scorecard sections that provide comprehensive insights into employee roles and internal movement. Whether you're tracking sales roles, leadership positions, or staffing changes, this tab aggregates all this information to deliver a complete picture. It allows for strategic reallocation of roles and offers a quick reference for internal movements, such as new hires or transfers.
 
 ## Exits and Leaves Page
 
 <img width="1672" alt="Screenshot 2023-08-31 at 6 15 09 PM" src="https://github.com/rodney-sibanda/FTE_Dashbaord/assets/126027138/28f147cc-54a3-47cc-8caf-f1f2c77cc0c3">
+
 
 This page provides an in-depth analysis into why employees are leaving or taking leaves. The multiple scorecards and heatmap-styled table allow for quick comprehension of trends in both voluntary and involuntary exits, as well as reasons for paid and unpaid leaves. This information is crucial for understanding attrition and planning for workforce stability.
 
@@ -39,11 +43,13 @@ This page provides an in-depth analysis into why employees are leaving or taking
 
 <img width="1673" alt="Screenshot 2023-08-31 at 6 15 24 PM" src="https://github.com/rodney-sibanda/FTE_Dashbaord/assets/126027138/22a2f980-b663-4df4-9608-f31207cbddfd">
 
+
 On this page, hiring trends and needs are laid bare. The pie chart and scorecards break down job postings by market and type, while the stacked bar chart shows the status of positions. This tab makes it easier to prioritize hiring needs and gives an immediate understanding of the hiring pipeline.
 
 ## Glossary
 
 <img width="1675" alt="Screenshot 2023-08-31 at 6 15 29 PM" src="https://github.com/rodney-sibanda/FTE_Dashbaord/assets/126027138/b34c7379-fad1-4ec0-b122-e573333f9cd5">
+
 
 The final page which serves as the glossary provides straightforward definitions of all the key terms used throughout the dashboard. It also offers additional resources, including links to the main report and other relevant dashboards, ensuring that all users, regardless of their familiarity with the subject matter, can fully utilize the dashboard.
 
@@ -63,11 +69,12 @@ The integrity and reliability of the FTE Dashboard hinge on the quality of the d
 
 ## Work Aid: A Lifeline for Consistent Data Operations
 
-Work Aid: Resource Management Report (RMR) - Data Preparation & Upload
+**Work Aid: Resource Management Report (RMR) - Data Preparation & Upload**
 
 Designed to be both informative and practical, this work aid aims to ensure consistency and efficiency in the data preparation process for the Resource Management Report, as well as paid and unpaid leaves. The guide covers data preparation and flattening, main document creation, and month-end data procedures for leaves. For any queries or specialized needs, the guide directs users to the experts in Appscript and Looker Studio, making it an indispensable resource for all involved.
 
 What's Inside the Work Aid?
+
 - **_Data Preparation & Flattening:_** The initial phase entails gathering data from the FY24 - EFS Resource Management Report and manipulating it for easier handling and analysis. It includes steps like creating new workbooks for each month and flattening data.
 
 - **_Main Document Creation:_** This segment lays out the procedures for creating a 'Main Document' which acts as the primary source file for upload into Looker Studio.

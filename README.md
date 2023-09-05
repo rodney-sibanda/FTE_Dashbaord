@@ -53,6 +53,19 @@ On this page, hiring trends and needs are laid bare. The pie chart and scorecard
 
 The final page which serves as the glossary provides straightforward definitions of all the key terms used throughout the dashboard. It also offers additional resources, including links to the main report and other relevant dashboards, ensuring that all users, regardless of their familiarity with the subject matter, can fully utilize the dashboard.
 
+
+## Dynamic Controls for Customized Insights
+
+<img width="1674" alt="Screenshot 2023-08-31 at 6 17 28 PM" src="https://github.com/rodney-sibanda/FTE_Dashbaord/assets/126027138/e4333c2b-e7ef-42e2-b500-159efc14799b">
+
+**By Month Filter:** The FTE Dashboard introduces a highly intuitive 'By Month' filter that allows for a chronological examination of the Full-Time Equivalent data. This feature enables decision-makers to evaluate both short-term trends and long-term patterns, offering a versatile approach to organizational analysis. Whether it's a seasonal uptick in employee turnover or a month-by-month tracking of resource allocation, the 'By Month' filter provides a temporal lens that adds depth to the data on display.
+
+<img width="1674" alt="Screenshot 2023-08-31 at 6 17 31 PM" src="https://github.com/rodney-sibanda/FTE_Dashbaord/assets/126027138/b60f73cf-939b-4dfb-8091-f8d4cafe0c23">
+
+**By Department Filter:** Equally robust is the 'By Department' filter that allows for granular exploration of data across different departments within the organization. Managers and executives can isolate variables department-wise to generate tailored reports and insights. Whether the focus is on the Marketing team's efficiency or the Engineering department's turnover rate, this filter offers a customizable experience that caters to the unique needs of each department.
+
+These dynamic controls are more than mere sorting tools; they're enablers that enhance the analytical capabilities of the FTE Dashboard. By offering customized views, these filters empower users to perform detailed evaluations that feed into more precise, effective decision-making processes. These filters, when used in combination or separately, greatly expand the dashboard’s utility, providing targeted data that can drive specific initiatives or broader organizational strategy.
+
 # Outcomes and Impact
 
 - **_Operational Efficiency:_** The FTE Dashboard has fundamentally altered the landscape of monthly reporting within the organization. What was once a time-consuming process involving multiple steps and resources has now been streamlined. By aggregating all the crucial data in an easily digestible format, the dashboard allows managers, like yours, to divert their time and focus towards more strategic activities. This enhancement in operational efficiency has yielded both tangible and intangible benefits, including but not limited to cost savings and agile decision-making.
